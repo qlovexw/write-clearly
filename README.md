@@ -9,6 +9,7 @@
 - 保留原意、学术专有名词、行业术语和作者定义名。
 - 依据材料展开关系，核对条件、数值、比较基准与结论强度。
 - 清楚的长句、被动句和常规表达可以保留。
+- 先定位主干与词组层级，再选择补词、移位、解开嵌入或必要解释；修改后核对角色和条件作用域。
 
 完整规则见 [SKILL.md](SKILL.md)。
 
@@ -44,7 +45,7 @@ $write-clearly
 
 受到 Clark、Martin 与 Mahowald（2026）预印本 [Why is AI-generated language so hard to understand?](https://arxiv.org/abs/2610.29162) 启发，将其第 3.1 节的六类语言特征转成有触发条件和保留条件的编辑动作。
 
-论文研究英语；中文规则为编辑适配。来源与证据边界见 [references/principles.md](references/principles.md)。
+论文研究英语；中文规则为编辑适配。补充依据涵盖句法嵌入、信息密度、复合词释义、共享语境和中文关系结构等研究，具体支持范围见 [references/principles.md](references/principles.md)。
 
 ## 文件结构
 
